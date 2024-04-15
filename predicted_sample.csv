@@ -1,0 +1,11 @@
+UserId,Name,CreditScore,Country,Gender,Age,Tenure,Balance,Number of Accounts,HasCrCard,IsActiveMember,EstimatedSalary,Prediction
+1,Aswin,619,France,Female,42,2,0.0,1,1,1,101348.88,Customer Exits
+2,Chitra,608,Spain,Female,41,1,83807.86,1,0,1,112542.58,Customer Stays
+3,Maha,502,France,Female,42,8,159660.8,3,1,0,113931.57,Customer Exits
+4,Sankar,699,France,Female,39,1,0.0,2,0,0,93826.63,Customer Stays
+5,Arun,850,Spain,Female,43,2,125510.82,1,1,1,79084.1,Customer Stays
+6,Hari,645,Spain,Male,44,8,113755.78,2,1,0,149756.71,Customer Exits
+7,Ram,822,France,Male,50,7,0.0,2,1,1,10062.8,Customer Stays
+8,Guru,376,Germany,Female,29,4,115046.74,4,1,0,119346.88,Customer Exits
+9,Kumar,501,France,Male,44,4,142051.07,2,0,1,74940.5,Customer Stays
+10,Rishi,399,France,Male,33,1,17777.0,2,1,1,10000.5,Customer Stays
